@@ -33,6 +33,7 @@ pip istall numpy
 - Score Estimation
 - (Simple) Robot
 
-## Struture
+## Structure
 
 Within the deprecated folder are an older version of the file and a newer but still older version of the current main 'go.py' file.
+
